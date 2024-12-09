@@ -8,6 +8,7 @@
 * Meral Test Results Analysis: Analyze the test results, look at trends in errors.
 * Meral Results Folder: Where hyperparameter tuning and test results for BERT and ClimateBERT are.
 
+Please Note: There are errors that come up when running the CLS token verison of the BERT and ClimateBERT models. These are identical to the errors in the BERT lesson notebook when using the CLS token, and we believe they are the result of the model not using the pooler layers.
 
 ## Seven Class Files
 
